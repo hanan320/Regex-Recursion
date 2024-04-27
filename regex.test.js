@@ -1,6 +1,6 @@
 'use strict';
 
-
+//regex
 
 /* Write a function that take a string and return true if the string only contain uppercase and lowercase
 characters (no numbers and symbols) and it should end with capital A else return false */
